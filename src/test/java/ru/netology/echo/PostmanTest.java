@@ -1,4 +1,4 @@
-package ru.neology.echo;
+package ru.netology.echo;
 
 import org.junit.jupiter.api.Test;
 
