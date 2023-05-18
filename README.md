@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dxcng3rdlkmasr29?svg=true)](https://ci.appveyor.com/project/temser1/apirest)
